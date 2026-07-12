@@ -9,10 +9,12 @@ index=main sourcetype=apache:access
 | sort -_time
 
 ## Alert Configuration
-
 Alert Name: Suspicious Web Attack Detected
+
 Trigger: Number of results > 0
+
 Action: Webhook
+
 Webhook URL: Configured to send to Shuffle SOAR
 
 ## Attack Patterns Detected
