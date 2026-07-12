@@ -20,6 +20,9 @@ Webhook URL: Configured to send to Shuffle SOAR
 ## Attack Patterns Detected
 
 Directory Traversal
+
 Common Admin Panel Scanning
+
 Environment File Access Attempts
+
 SQL Injection-like patterns
