@@ -31,7 +31,7 @@ This lab was built to strengthen my skills in log ingestion, detection engineeri
 
 ## Screenshots
 
-See the [`screenshots/`](screenshots/) folder for visual documentation.
+See the [`Screenshots/`](Screenshots/) folder for visual documentation.
 
 ## Documentation
 
